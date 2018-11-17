@@ -1,0 +1,1 @@
+# git-for-the-scared
